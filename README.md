@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/aayush-tripathi/aayush-tripathi/blob/main/assets/banner.gif" alt="Aayush Tripathi Banner" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Aayush Tripathi 👋</h1>
 
