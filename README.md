@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm Aayush Tripathi 👋</h1>
+<h1 align="center">Hi , I'm Aayush Tripathi </h1>
 
 <p align="center">
   <em>Software Developer | Backend Developer | Infrastructure Developer | Competitive Programmer</em>
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
 ---
@@ -43,7 +42,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush-tripathi&show_icons=true&theme=dracula" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-tripathi&theme=dracula" />
+</p>
+<p align="center">
+    
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-tripathi&theme=dracula"/>
 </p>
 
@@ -60,7 +64,7 @@
 - **ICU Mortality Prediction**: A deep learning model trained on MIMIC and eICU datasets to predict patient mortality in real time.
 - **Android Apps built on JetPack Compose with Modern MVVM Structure**: Notable apps include Synapse and a Fuzzy-GA Fitness Coach for Wear OS.
 - **CodeForces Editorial Extension**: An Extension for Chromium Browsers which formats and edits the editorial onto the problem page using Gemini to improve ease and understanding.
-- **Open Source Contributions**: Contributions to AnkiDroid, including bug fixes and backwards compatibility towards older Android Versions.
+- **Open Source Contributions**: Contributions to various organizations.
 ### 🏆 Achievements
 
 - **Codeforces Expert (1752)**
