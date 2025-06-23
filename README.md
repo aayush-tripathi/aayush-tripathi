@@ -38,7 +38,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush-tripathi&show_icons=true&theme=dracula" />
@@ -46,33 +46,20 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
   Below are some projects of mine which I have worked or am currently working on. Some of the projects including the deep learning model/browser are collaborative and private for now:
-
 
 
 - **Tundra Language**: A custom programming language built in Rust featuring a JIT backend and custom AST
 - **Privacy-Focused Browser**: A desktop browser leveraging Mozilla’s Gecko engine, engineered for privacy and performance.
-- **Minesweeper Encoder**: An innovative tool that encodes files into Minesweeper board states using Electron and TypeScript.
 - **ICU Mortality Prediction**: A deep learning model trained on MIMIC and eICU datasets to predict patient mortality in real time.
 - **Android Apps built on JetPack Compose with Modern MVVM Structure**: Notable apps include Synapse and a Fuzzy-GA Fitness Coach for Wear OS.
 - **CodeForces Editorial Extension**: An Extension for Chromium Browsers which formats and edits the editorial onto the problem page using Gemini to improve ease and understanding.
-- **Open Source Contributions**: Contributions to various organizations.
-### 🏆 Achievements
 
-- **Codeforces Expert (1752)**
-- **Open-Source Contributor**
----
 
-### 📫 Connect with Me
+###  Contact
 
 <p align="center">
-  <a href="mailto:22ucs002@lnmiit.ac.in">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tripathiaayush">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/aayush-tripathi">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
